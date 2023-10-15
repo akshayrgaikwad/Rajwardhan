@@ -1,0 +1,54 @@
+# Python-related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment (if using one)
+venv/
+env/
+.env/
+
+# Dependency directories
+.venv/
+env/
+/lib/
+/include/
+/pip-selfcheck.json
+
+# IDE-related files (e.g., PyCharm, VS Code, etc.)
+.idea/
+.vscode/
+
+# Django-generated files
+*.log
+*.pot
+*.db
+media/
+static/
+
+# Secret key (keep this private!)
+*.key
+
+# Other Django-specific files
+*.settings
+local_settings.py
+db.sqlite3
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Temporary files and directories
+*.swp
+*.bak
+*.~*
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+.idea
+Scripts
+Lib
